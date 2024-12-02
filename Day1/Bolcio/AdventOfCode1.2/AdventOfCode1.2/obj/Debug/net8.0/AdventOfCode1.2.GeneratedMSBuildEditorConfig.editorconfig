@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AdventOfCode1._2
-build_property.ProjectDir = D:\Advent\advent1\AdventOfCode1.2\AdventOfCode1.2\
+build_property.ProjectDir = D:\Advent\advent1\Day1\Bolcio\AdventOfCode1.2\AdventOfCode1.2\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Advent\\advent1\\AdventOfCode1.2\\AdventOfCode1.2\\AdventOfCode1.2.csproj": {}
+    "D:\\Advent\\advent1\\Day1\\Bolcio\\AdventOfCode1.2\\AdventOfCode1.2\\AdventOfCode1.2.csproj": {}
   },
   "projects": {
-    "D:\\Advent\\advent1\\AdventOfCode1.2\\AdventOfCode1.2\\AdventOfCode1.2.csproj": {
+    "D:\\Advent\\advent1\\Day1\\Bolcio\\AdventOfCode1.2\\AdventOfCode1.2\\AdventOfCode1.2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Advent\\advent1\\AdventOfCode1.2\\AdventOfCode1.2\\AdventOfCode1.2.csproj",
+        "projectUniqueName": "D:\\Advent\\advent1\\Day1\\Bolcio\\AdventOfCode1.2\\AdventOfCode1.2\\AdventOfCode1.2.csproj",
         "projectName": "AdventOfCode1.2",
-        "projectPath": "D:\\Advent\\advent1\\AdventOfCode1.2\\AdventOfCode1.2\\AdventOfCode1.2.csproj",
+        "projectPath": "D:\\Advent\\advent1\\Day1\\Bolcio\\AdventOfCode1.2\\AdventOfCode1.2\\AdventOfCode1.2.csproj",
         "packagesPath": "C:\\Users\\Bolcio\\.nuget\\packages\\",
-        "outputPath": "D:\\Advent\\advent1\\AdventOfCode1.2\\AdventOfCode1.2\\obj\\",
+        "outputPath": "D:\\Advent\\advent1\\Day1\\Bolcio\\AdventOfCode1.2\\AdventOfCode1.2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bolcio\\AppData\\Roaming\\NuGet\\NuGet.Config",

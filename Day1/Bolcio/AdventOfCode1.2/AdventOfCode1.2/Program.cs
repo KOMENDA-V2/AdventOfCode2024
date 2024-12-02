@@ -15,7 +15,7 @@ class Program
             List<string> allStringsFromPart1 = new List<string>();
             List<string> allStringsFromPart2 = new List<string>();
 
-            using (StreamReader sr = new StreamReader("D:\\Advent\\advent1\\adventofcode1.txt"))
+            using (StreamReader sr = new StreamReader("../../../../../adventofcode1.txt"))
             {
                 while ((line = sr.ReadLine()) != null)
                 {
