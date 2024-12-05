@@ -1,0 +1,14 @@
+D:\Advent\advent4\day4\bolcio\adventOfCode4\adventOfCode4\obj\Debug\net8.0\adventOfCode4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advent\advent4\day4\bolcio\adventOfCode4\adventOfCode4\obj\Debug\net8.0\adventOfCode4.AssemblyInfoInputs.cache
+D:\Advent\advent4\day4\bolcio\adventOfCode4\adventOfCode4\obj\Debug\net8.0\adventOfCode4.AssemblyInfo.cs
+D:\Advent\advent4\day4\bolcio\adventOfCode4\adventOfCode4\obj\Debug\net8.0\adventOfCode4.csproj.CoreCompileInputs.cache
+D:\Advent\advent4\day4\bolcio\adventOfCode4\adventOfCode4\bin\Debug\net8.0\adventOfCode4.exe
+D:\Advent\advent4\day4\bolcio\adventOfCode4\adventOfCode4\bin\Debug\net8.0\adventOfCode4.deps.json
+D:\Advent\advent4\day4\bolcio\adventOfCode4\adventOfCode4\bin\Debug\net8.0\adventOfCode4.runtimeconfig.json
+D:\Advent\advent4\day4\bolcio\adventOfCode4\adventOfCode4\bin\Debug\net8.0\adventOfCode4.dll
+D:\Advent\advent4\day4\bolcio\adventOfCode4\adventOfCode4\bin\Debug\net8.0\adventOfCode4.pdb
+D:\Advent\advent4\day4\bolcio\adventOfCode4\adventOfCode4\obj\Debug\net8.0\adventOfCode4.dll
+D:\Advent\advent4\day4\bolcio\adventOfCode4\adventOfCode4\obj\Debug\net8.0\refint\adventOfCode4.dll
+D:\Advent\advent4\day4\bolcio\adventOfCode4\adventOfCode4\obj\Debug\net8.0\adventOfCode4.pdb
+D:\Advent\advent4\day4\bolcio\adventOfCode4\adventOfCode4\obj\Debug\net8.0\adventOfCode4.genruntimeconfig.cache
+D:\Advent\advent4\day4\bolcio\adventOfCode4\adventOfCode4\obj\Debug\net8.0\ref\adventOfCode4.dll
