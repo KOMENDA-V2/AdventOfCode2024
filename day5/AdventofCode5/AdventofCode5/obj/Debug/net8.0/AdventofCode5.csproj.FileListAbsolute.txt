@@ -1,0 +1,14 @@
+D:\Advent\advent5\day5\AdventofCode5\AdventofCode5\bin\Debug\net8.0\AdventofCode5.exe
+D:\Advent\advent5\day5\AdventofCode5\AdventofCode5\bin\Debug\net8.0\AdventofCode5.deps.json
+D:\Advent\advent5\day5\AdventofCode5\AdventofCode5\bin\Debug\net8.0\AdventofCode5.runtimeconfig.json
+D:\Advent\advent5\day5\AdventofCode5\AdventofCode5\bin\Debug\net8.0\AdventofCode5.dll
+D:\Advent\advent5\day5\AdventofCode5\AdventofCode5\bin\Debug\net8.0\AdventofCode5.pdb
+D:\Advent\advent5\day5\AdventofCode5\AdventofCode5\obj\Debug\net8.0\AdventofCode5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advent\advent5\day5\AdventofCode5\AdventofCode5\obj\Debug\net8.0\AdventofCode5.AssemblyInfoInputs.cache
+D:\Advent\advent5\day5\AdventofCode5\AdventofCode5\obj\Debug\net8.0\AdventofCode5.AssemblyInfo.cs
+D:\Advent\advent5\day5\AdventofCode5\AdventofCode5\obj\Debug\net8.0\AdventofCode5.csproj.CoreCompileInputs.cache
+D:\Advent\advent5\day5\AdventofCode5\AdventofCode5\obj\Debug\net8.0\AdventofCode5.dll
+D:\Advent\advent5\day5\AdventofCode5\AdventofCode5\obj\Debug\net8.0\refint\AdventofCode5.dll
+D:\Advent\advent5\day5\AdventofCode5\AdventofCode5\obj\Debug\net8.0\AdventofCode5.pdb
+D:\Advent\advent5\day5\AdventofCode5\AdventofCode5\obj\Debug\net8.0\AdventofCode5.genruntimeconfig.cache
+D:\Advent\advent5\day5\AdventofCode5\AdventofCode5\obj\Debug\net8.0\ref\AdventofCode5.dll
